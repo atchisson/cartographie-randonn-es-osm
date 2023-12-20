@@ -25,5 +25,5 @@ Il a pour but premier mon suivi perso, mais n'hésitez pas à participer si vous
 | [tourainenature.com sentiers découvertes](https://www.tourainenature.com/planifier-mon-sejour/randonner-a-pieds-ou-a-velo/sentiers-de-decouvertes/) | à traiter | |
 | [tourainenature.com circuits balisés](https://www.tourainenature.com/planifier-mon-sejour/randonner-a-pieds-ou-a-velo/circuits-balises-velo-pedestre/) | à traiter, vérifier doublons avec au dessus | |
 | [visugpx.com circuits TOVAL](https://www.visugpx.com/zSWBU0dF9v) | à traiter, vérifier que ces tracés sont bien marqués sur place | |
-| cc-autourdechenonceaux.fr](https://www.cc-autourdechenonceaux.fr/sortir-decouvrir/les-sentiers-de-randonnees-pedestres/?print=print) | à traiter | |
+| [cc-autourdechenonceaux.fr](https://www.cc-autourdechenonceaux.fr/sortir-decouvrir/les-sentiers-de-randonnees-pedestres/?print=print) | à traiter | |
 | [azay-chinon-valdeloire.com](https://www.azay-chinon-valdeloire.com/randonnees/) | à traiter | |
