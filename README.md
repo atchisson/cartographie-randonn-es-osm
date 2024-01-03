@@ -14,6 +14,7 @@ Il a pour but premier mon suivi perso, mais n'hésitez pas à participer si vous
 | [bloischambord.com](https://www.bloischambord.com/planifier/balades-et-visites-autour-des-chateaux-de-la-loire/randonnees-pedestres)  | OK - 05/10/2023 | @atchisson |
 | [val-de-loire-41.com](https://www.val-de-loire-41.com/la-loire-patrimoine-mondial-unesco/randonnees-pedestres-val-de-loire/)  | OK - 17/10/2023 | @atchisson |
 | [agglopolys.fr](https://www.agglopolys.fr/1233-a-pieds-les-sentiers-de-randonnee.htm)  | OK - 14/12/2023 | @atchisson |
+| [sentiers en france.eu](https://www.sentiers-en-france.eu/sentiers-loir-et-cher-41/sentiers-centre-loir-et-cher-41.php) | en cours | @atchisson | 
 
 
 ## Département 37
